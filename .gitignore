@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*.prg
+!*.rsp
+!*.lianja*
+!erd4lianja.labels
+!erd4lianja.properties
